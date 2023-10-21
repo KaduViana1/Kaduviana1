@@ -22,7 +22,7 @@ Here you can see my portfolio: https://kaduviana1.github.io./
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" alt="Next"/>
   <img src="https://icon-library.com/images/react-icon/react-icon-28.jpg" width="50px" height="50px" alt="Redux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="50px" height="50px" alt="Vue"/>
-  <img src="https://nuxt.com/assets/design-kit/logo/icon-green.png" width="50px" height="50px" alt="Nuxt" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" width="50px" height="45px" alt="Nuxt" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="50px" height="50px" alt="Svelte" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="50px" height="50px" alt="Sass" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" width="50px" height="45px" alt="Tailwind" />
