@@ -1,13 +1,12 @@
-# About Me
+# Olá, sou Carlos Eduardo mas pode me chamar de Kadu!
 ***
 
-Hi, my name is Carlos Eduardo, but you can call me Kadu!  
-I've always been fascinated by technology, so I decided to start a career as a Developer.  
-My goal is to become as best as I can get at Full-Stack Web Development.  
-I'm especially used to work with javascript, React.js and Node.js, but willingly and longing to learn any new technologies to build better and better projects.  
-Here you can see my portfolio: https://kaduviana1.github.io./  
+Amante da tecnologia e fascinado com a programação de aplicações, sou um desenvolvedor Full-Stack focado principalmente no ecossistema da área de desenvolvimento web, mas também com habilidades em desenvolvimento mobile. Mais familiarizado com React, Vue e Express,  estou sempre em busca de aprender novas tecnologias e assim ter as habilidades necessárias para resolver cada problema e realizar cada projeto da maneira mais eficiente possível.
+Atualmente trabalhando como desenvolvedor Freelancer em plataformas como Workana e Getninjas.
+ 
+Link para meu portfólio: https://kaduviana1.github.io./  
 
-# Tecnologies
+# Tecnologias
 ***
 
 <div style="display: flex">
