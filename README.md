@@ -1,8 +1,10 @@
 # Olá, sou Carlos Eduardo mas pode me chamar de Kadu!
 ***
 
-Amante da tecnologia e fascinado com a programação de aplicações, sou um desenvolvedor Full-Stack focado principalmente no ecossistema da área de desenvolvimento web, mas também com habilidades em desenvolvimento mobile. Mais familiarizado com React, Vue e Express,  estou sempre em busca de aprender novas tecnologias e assim ter as habilidades necessárias para resolver cada problema e realizar cada projeto da maneira mais eficiente possível.
-Atualmente trabalhando como desenvolvedor Freelancer em plataformas como Workana e Getninjas.
+Sou um desenvolvedor Full-Stack com foco principal na área de desenvolvimento Web, mas também com habilidades em desenvolvimento mobile. Sou mais familiarizado com Javascript, Typesctipt, React, React Native, Next.js, Vue, Nuxt, Node e Express.
+Atualmente trabalho prestando serviços em plataformas para freelancers, realizando desde integrações de APIs, correções de bugs e desenvolvimento de novas funcionalidades a projetos já existentes, até o desenvolvimento de aplicações por completo.
+Sou fascinado por tecnologia e por programação, por isso estou sempre em busca de aprender novas tecnologias, linguagens e frameworks para assim melhorar minhas habilidades para conseguir escolher a melhor opção para cada caso e realizar cada projeto de maneira mais eficiente.
+
  
 Link para meu portfólio: https://kaduviana1.github.io./  
 
