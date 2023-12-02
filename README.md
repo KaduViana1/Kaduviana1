@@ -18,7 +18,7 @@ Link para meu portfólio: https://kaduviana1.github.io./
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px" height="50px"  alt="Typescript"/>
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="50px" height="55px" alt="Node.js" />
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50px" height="50px" alt="Express" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="50px" height="32px" alt="PHP" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" width="50px" height="50px" alt="NestJS" />
   <img src="https://github.com/KaduViana1/Kaduviana1/assets/119880481/4aa58ac3-a2eb-4a3d-bce6-bfc851e2ad64" width="50px" height="50px" alt="React" />
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="50px" height="50px" alt="Next"/>
   <img src="https://icon-library.com/images/react-icon/react-icon-28.jpg" width="50px" height="50px" alt="Redux" />
