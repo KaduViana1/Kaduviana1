@@ -30,6 +30,7 @@ Link para meu portfólio: https://kaduviana1.github.io./
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50px" height="50px" alt="MySQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="50px" height="50px" alt="SQLite" />
   <img src="https://github.com/KaduViana1/Kaduviana1/assets/119880481/c490650b-9175-48fd-b8ef-59e5c1843687" width="50px" height="50px" alt="Mongodb" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" height="50px" alt="GraphQL" />
   <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png" width="50px" height="50px" alt="Socket" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50px" height="50px" alt="Git" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50px" height="50px" alt="Docker" />
