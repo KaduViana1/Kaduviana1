@@ -11,11 +11,12 @@ Link para meu portfólio: https://kaduviana1.github.io./
 # Tecnologias
 ***
 
-<div style="display: flex">
+<div>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50px" height="50px" alt="HTML" />
   <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" width="50px" height="54px" alt="CSS" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50px" height="50px" alt="Javascript" />
   <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" width="50px" height="50px"  alt="Typescript"/>
+  <img src="https://pngimg.com/uploads/php/php_PNG35.png" width="55px" height="65px" alt="PHP"/>
   <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="50px" height="55px" alt="Node.js" />
   <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="50px" height="50px" alt="Express" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" width="50px" height="50px" alt="NestJS" />
